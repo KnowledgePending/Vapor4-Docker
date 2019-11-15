@@ -1,6 +1,6 @@
 <img src="https://raw.githubusercontent.com/KnowledgePending/Vapor4-Docker/master/images/logo.jpg" width="500">  
 
-# [Vapor 4 Docker environment](https://github.com/KnowledgePending/Vapor-Docker)
+# [Vapor 4 Docker environment](https://github.com/KnowledgePending/Vapor4-Docker)
 [![Docker Pulls](https://img.shields.io/docker/pulls/bryankp/vapor4.svg)](https://hub.docker.com/r/bryankp/vapor4)
 
 With Vapor 4 comes a whole host of improvements:
